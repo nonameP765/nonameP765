@@ -6,5 +6,4 @@
 
 
 📫 How to reach me<br>
-nonamep@setsuna.kr<br>
-[Gitlab Account](https://gitlab.setsuna.kr/nonamep)(Since 2023)
+nonamep@setsuna.kr
