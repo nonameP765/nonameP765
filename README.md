@@ -11,15 +11,19 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Github action](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-🌱 I’m currently using<br>
+🌱 I’m currently using in company<br>
 ![Next.JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+🏫 I’m currently learning<br>
+- [StyleX](https://stylexjs.com)
+- [Stable diffusion](https://stability.ai)
+- [Rust (WASM)](https://www.rust-lang.org)
 
-📝 [My resume (Korean)](https://nonamep.notion.site/89c4e0dbe70942a58beec1cda4deb560?pvs=4)
+📝 My resume (Korean) - [here](https://nonamep.notion.site/89c4e0dbe70942a58beec1cda4deb560?pvs=4)
 
 📫 How to reach me<br>
 - nonamep@setsuna.kr
