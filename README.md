@@ -19,7 +19,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 🏫 I’m currently learning<br>
-- [Next.JS App Router](https://nextjs.org/docs/app)
+- [NextJS App Router](https://nextjs.org/docs/app)
 - [Stable diffusion](https://stability.ai)
 - [Rust (WASM)](https://www.rust-lang.org)
 
