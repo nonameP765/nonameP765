@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=NA`ME%20Github&fontSize=45&animation=fadeIn)
 [![GitHub Streak](https://streak-stats.demolab.com?user=nonamep765&theme=vue-dark&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-✨ Languages<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonamep765&langs_count=5&layout=donut&theme=vue-dark&hide_border=true&hide=html,css,scss,shell,php,blade,tsql,scss,less,stylus,styl,teX)
-
 📚 I'm good at<br>
 ![Next.JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
